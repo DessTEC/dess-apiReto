@@ -1,0 +1,22 @@
+{
+  "name": "apireto",
+  "version": "1.0.0",
+  "description": "Api para reto TC.2005B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "david",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^5.12.3",
+    "sequelize-cli": "^6.2.0"
+  }
+}
